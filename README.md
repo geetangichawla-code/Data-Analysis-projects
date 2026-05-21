@@ -1,4 +1,4 @@
-# Data-Science-projects
+# Data-Analysis-projects
 # Social Media & Marketplace Data Analysis
 
 This repository contains two analytics projects completed during the Finlatics Upskill Program:
